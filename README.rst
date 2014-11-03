@@ -1,7 +1,7 @@
 collectd/Graphite on Docker
 ===========================
 
-Forked for demo purpose - changed some details
+**** Forked for demo purpose - changed some details ****
 
 This repository contains the sources to build a collectd_/Graphite_ Docker_
 image. collectd is configured to receive metrics from the network and to store
